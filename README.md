@@ -21,9 +21,15 @@ Key objectives of the project include:
 
 In the analysis, the total rides for each city type was produced using the groupby function to obtain a series and then derived all the rides per city using the count method. The results showed that 1,625, 625, 125 was the total rides recorded for urban, suburban and rural cities respectively. This meant that there was a high patronage of Pyber in the urban cities than the remaining city types. 
 
+_*Example of code used to generate the total_rides per city type*_
+
+![Alt text](https://github.com/emmanuelbrim/PyBer_Analysis/blob/main/analysis/Capture.PNG)
+
+
 * **Total Drivers**
 
 The output of the analysis of PyBer_data to reveal the total driver count per city type showed that PyBer had more drivers in the urban cities than other categories of cities it operated in. The results showed 2,405 drivers in the urban cities, 490 in the suburban and 78 in rural cities.
+
 
 * **Total Fares**
 
@@ -35,9 +41,9 @@ The analysis also showed that the average cost of using PyBer service was high i
 Following the same trend was the average fare per driver. The average fair per driver in the rural type was high and was less in the urban cities. 
 
 
-_*Example of code used to generate the total_votes of the election*_
+_*PyBer_summary_df_
 
-![Alt text](https://github.com/emmanuelbrim/Election_Analysis/blob/main/Resources/Total%20Votes.PNG)
+![Alt text](https://github.com/emmanuelbrim/PyBer_Analysis/blob/main/analysis/pyber%20summary.PNG)
 
 
 
@@ -50,9 +56,9 @@ The blue line shows how rural cities performed showing the highest increase in f
 On the otherhand the red line on the chart also show how the fares generated in the Suburban group began to increase in mid April after a decline earlier that same month.
 
 
-_*Example of code used to generate the total_votes of the election*_
+_*Example of a multiple-line chart showing fares per city type*_
 
-![Alt text](https://github.com/emmanuelbrim/Election_Analysis/blob/main/Resources/Total%20Votes.PNG)
+![Alt text](https://github.com/emmanuelbrim/PyBer_Analysis/blob/main/analysis/Fig8.png)
 
 
 
