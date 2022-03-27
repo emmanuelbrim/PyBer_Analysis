@@ -59,8 +59,11 @@ _*Example of code used to generate the total_votes of the election*_
 ## Summary
 
 From the analysis it is evident that the largest market for PyBer serives was in the urban cities due to higher driver count and rides.
+
 It is therefore recommended that intensive campaigns to get more users to sign onto the app should target especially the rural city population.
+
 The average fare per ride in the rural city type was high compared to all the other types, hence management must seek inovatie ways of reducing this cost to users to encorage patronage. 
-On the chart all city types significant increase fares in febuary, further anaysis is required to determine what caused the surge and make decisions that will trickle that increase to other months of the year. 
+
+On the chart all city types showed significant increase in fares during Febuary thus further analysis is required to determine what caused the surge and make decisions that will trickle down that increase to the other months of the year. 
 
  
