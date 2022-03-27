@@ -30,6 +30,10 @@ _*Example of code used to generate the total_rides per city type*_
 
 The output of the analysis of PyBer_data to reveal the total driver count per city type showed that PyBer had more drivers in the urban cities than other categories of cities it operated in. The results showed 2,405 drivers in the urban cities, 490 in the suburban and 78 in rural cities.
 
+_*Example of pie chart showing driver distirbution among city types*_
+
+![Alt text](https://github.com/emmanuelbrim/PyBer_Analysis/blob/main/analysis/Fig5.png)
+
 
 * **Total Fares**
 
